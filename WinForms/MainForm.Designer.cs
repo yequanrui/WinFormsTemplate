@@ -38,7 +38,6 @@
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(784, 561);
             this.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.HelpButton = true;
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "MainForm";
             this.Opacity = 0.9D;
