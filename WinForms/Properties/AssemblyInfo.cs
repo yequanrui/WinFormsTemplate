@@ -1,5 +1,4 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // 有关程序集的一般信息由以下
@@ -10,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("XXX")]
 [assembly: AssemblyProduct("WinForms")]
-[assembly: AssemblyCopyright("Copyright © XXX 2023")]
+[assembly: AssemblyCopyright("Copyright © XXX 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("53d5fe48-6a1c-4c1d-a3cb-d5e69d502491")]
+[assembly: Guid("f3e874b2-53bb-4f2a-bd39-cc24bfebdde6")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
@@ -32,5 +31,5 @@ using System.Runtime.InteropServices;
 //可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值
 //通过使用 "*"，如下所示:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyVersion("4.8.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
